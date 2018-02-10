@@ -1,0 +1,7 @@
+C:\Users\姬逍遥\source\repos\流量监控\流量监控\bin\x64\Debug\流量监控.exe.config
+C:\Users\姬逍遥\source\repos\流量监控\流量监控\bin\x64\Debug\流量监控.exe
+C:\Users\姬逍遥\source\repos\流量监控\流量监控\bin\x64\Debug\流量监控.pdb
+C:\Users\姬逍遥\source\repos\流量监控\流量监控\obj\x64\Debug\流量监控.csprojResolveAssemblyReference.cache
+C:\Users\姬逍遥\source\repos\流量监控\流量监控\obj\x64\Debug\流量监控.csproj.CoreCompileInputs.cache
+C:\Users\姬逍遥\source\repos\流量监控\流量监控\obj\x64\Debug\流量监控.exe
+C:\Users\姬逍遥\source\repos\流量监控\流量监控\obj\x64\Debug\流量监控.pdb
